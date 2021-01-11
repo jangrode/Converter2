@@ -1,0 +1,6 @@
+
+/* Class = "UILabel"; text = "Answer in Celsius"; ObjectID = "WTF-Xr-Q0r"; */
+"WTF-Xr-Q0r.text" = "Antwort in Celsius";
+
+/* Class = "UIButton"; normalTitle = "Convert to Fahrenheit"; ObjectID = "gHM-ik-4aA"; */
+"gHM-ik-4aA.normalTitle" = "Nach Fahrenheit konvertieren";
